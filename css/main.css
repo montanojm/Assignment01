@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-    <html>
-
-    <head>
-        <title>My Bio</title>
-		<style>
+<style>
             * {
                 margin: 0;
                 padding: 0;
@@ -132,56 +127,3 @@
 				height:100px;
 			}
         </style>
-    </head>
-
-    <body>
-        <div class="wrapper">
-            <header class="main-header box-shadow">
-                <h1>Jessica Montano</h1>
-            </header>
-            <section class="content-top">
-                <article class="content-bio">
-                    <img src="./images/myPic.jpg" alt="my pic">
-                    <div class="bio-text">
-                        <h1>My Biography</h1>
-                        <p>
-                            Something about me...to be continued
-                        </p>
-                    </div>
-                </article>
-            </section>
-            <section class="content-bottom">
-                <aside class="sidebar">
-                    <ul class="sidebar-links">
-                        <li><a href="http://www.google.com" target="_blank">Google</a></li>
-                        <li><a href="http://www.mclnational.org" target="-blank">Marine Corps League</a></li>
-                        <li><a href="http://www.mclcal.org" target="-blank">MCL Dept of CA</a></li>
-                        <li><a href="http://www.mcldet14.org" target="-blank">MCL Fresno Det 014</a></li>
-                        <li><a href="http://www.reddit.com" target="-blank">Reddit</a></li>
-                        <li><a href="httpp://www.pandora.com" target="-blank">Pandora</a></li>
-                    </ul>
-                </aside>
-                <article class="main-content">
-                    <div class="gallery">
-						<h1>Gallery<h/>
-						<ul>
-						<li><img src="./images/gallery/1.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/2.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/3.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/4.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/5.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/6.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/7.jpg" alt="mcl"></li>
-						<li><img src="./images/gallery/8.jpg" alt="mcl"></li>
-						</ul>
-					</div>
-                </article>
-            </section>
-        </div>
-        <footer class="footer box-shadow">
-            <p class="copyright">
-                &copy2017 Created by Jessica Montano
-            </p>
-        </footer>       
-    </body>
-</html>
